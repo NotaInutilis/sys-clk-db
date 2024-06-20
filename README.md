@@ -28,3 +28,8 @@ handheld_gpu=76
 ## Community presets
 
 Those presets comes from our community in the [RetroNX Discord](https://discord.gg/erNC4FB) in the channel `#oc-perf-submissions`.
+
+# Usage
+sys-clk is not compatible with the latest HOS and Atmosphere version, here are some forks:
+https://github.com/jope82/sys-clk-uncapped-gpu-and-other-extras
+https://github.com/hanai3Bi/Switch-OC-Suite
